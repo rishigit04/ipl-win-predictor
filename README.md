@@ -29,6 +29,17 @@ This project is designed for data science learning, interactive reporting, and p
 - `matches.csv` — IPL dataset (must be downloaded separately)
 
 ---
+## 🎬 Application Demo
+
+<div align="center">
+
+![IPL Win Predictor Demo](https://github.com/rishigit04/ipl-win-predictor/raw/main/Animation.gif)
+
+**Experience real-time IPL match predictions powered by machine learning**
+
+</div>
+
+---
 
 ## Key Features
 
@@ -57,8 +68,8 @@ This project is designed for data science learning, interactive reporting, and p
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ipl-predictor.git
-cd ipl-predictor
+git clone https://github.com/rishigit04/ipl-win-predictor
+cd ipl-win-predictor
 ```
 
 ### 2. Install dependencies
