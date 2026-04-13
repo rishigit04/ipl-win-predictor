@@ -33,7 +33,7 @@ This project is designed for data science learning, interactive reporting, and p
 
 <div align="center">
 
-![IPL Win Predictor Demo](https://github.com/rishigit04/ipl-win-predictor/raw/main/Animation.gif)
+![IPL Win Predictor Demo](https://iplwinpredictor04.streamlit.app/)
 
 **Experience real-time IPL match predictions powered by machine learning**
 
