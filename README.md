@@ -31,13 +31,7 @@ This project is designed for data science learning, interactive reporting, and p
 ---
 ## 🎬 Application Demo
 
-<div align="center">
-
-![IPL Win Predictor Demo](https://iplwinpredictor04.streamlit.app/)
-
-**Experience real-time IPL match predictions powered by machine learning**
-
-</div>
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iplwinpredictor04.streamlit.app/)
 
 ---
 
